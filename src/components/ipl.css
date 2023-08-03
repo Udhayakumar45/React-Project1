@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+.Ipl table,td{
+    border: 1px solid black;
+}
+.Ipl table{
+    background: #ADA996;  }
+.Ipl{
+    margin-left: 20%;
+}
